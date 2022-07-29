@@ -1975,9 +1975,9 @@
       },
       "model": {
         "kind": "WizardStepModel",
-        "namespace": "ratio_app",
+        "namespace": "ratio",
         "description": "",
-        "appDesignType": "ratio_app.c07_super_2group_control_pair",
+        "appDesignType": "ratio.c07_super_2group_control_pair",
         "factors": [
           {
             "kind": "MappingFactor",
