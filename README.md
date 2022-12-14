@@ -12,6 +12,5 @@ This workflow has 3 operators:
 
 * [identity (0.1.0)](https://github.com/tercen/identity_operator/tree/0.1.0)
 * [ratio (1.9.1)](https://github.com/tercen/ratio_operator/tree/1.9.1)
-* [median_mad (0.0.1)](https://github.com/tercen/median_mad_operator/tree/0.0.1)
 
 ##### See Also
