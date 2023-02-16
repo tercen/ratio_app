@@ -8,9 +8,9 @@
 
 The input data is the [c07_super_2group_control_pair](https://github.com/tercen/data_designs/tree/main/c07_super_2group_control_pair)
 
-This workflow has 3 operators:
+This workflow has 2 operators:
 
-* [identity (0.1.0)](https://github.com/tercen/identity_operator/tree/0.1.0)
-* [ratio (1.9.1)](https://github.com/tercen/ratio_operator/tree/1.9.1)
+* [median (1.1.0)](https://github.com/tercen/median_operator/tree/1.1.0)
+* [ratio (2.0.0)](https://github.com/tercen/ratio_operator/tree/2.0.0)
 
 ##### See Also
